@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/ssroka/mpm/sandbox/util'
+let g:netrw_dirhist_2='/home/ssroka/pkg/OpenFOAM/Cases/parallel_fine_50/constant'
+let g:netrw_dirhist_3='/home/ssroka/pkg/OpenFOAM/Cases/parallel_fine_40/0.orig'
+let g:netrw_dirhist_4='/home/ssroka/pkg/OpenFOAM/Cases/parallel_coarse_20/0.orig'
